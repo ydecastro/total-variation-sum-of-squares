@@ -1,5 +1,5 @@
 
-# Testing Procedure for Super Resolution
+# Sum-of-squares hierarchies to solve the Total Variation norm minimization
 
 This repository contains an illsutration of the numerical experiments performed in the paper entitled
 "[*Exact solutions to Super Resolution on
